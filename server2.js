@@ -19,22 +19,21 @@ app.use(cors());
 app.use(cookieParser())
 
 //ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '0925090339';
- /*const db=mysql.createConnection({
+ const db=mysql.createConnection({
   host:"localhost",
   user:"root",
   password:"0925090339",
   database:"teleDb",
   charset : 'utf8mb4',
 }) 
-*/
-
+/*
 const db=mysql.createConnection({
-  host:"sql7.freemysqlhosting.net",
-  user:"sql7709683",
-  password:"F8mRzpIdqI",
-  database:"sql7709683",
+  host:"sql11.freemysqlhosting.net",
+  user:"sql11700306",
+  password:"x2KyiiHXFh",
+  database:"sql11700306",
   charset : 'utf8mb4',
-}) 
+}) */
 
 
 
